@@ -1,0 +1,13 @@
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\bin\Debug\netcoreapp3.1\CpfCpnj-poo.exe
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\bin\Debug\netcoreapp3.1\CpfCpnj-poo.deps.json
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\bin\Debug\netcoreapp3.1\CpfCpnj-poo.runtimeconfig.json
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\bin\Debug\netcoreapp3.1\CpfCpnj-poo.runtimeconfig.dev.json
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\bin\Debug\netcoreapp3.1\CpfCpnj-poo.dll
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\bin\Debug\netcoreapp3.1\CpfCpnj-poo.pdb
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\obj\Debug\netcoreapp3.1\CpfCpnj-poo.csprojAssemblyReference.cache
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\obj\Debug\netcoreapp3.1\CpfCpnj-poo.csproj.CoreCompileInputs.cache
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\obj\Debug\netcoreapp3.1\CpfCpnj-poo.AssemblyInfoInputs.cache
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\obj\Debug\netcoreapp3.1\CpfCpnj-poo.AssemblyInfo.cs
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\obj\Debug\netcoreapp3.1\CpfCpnj-poo.dll
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\obj\Debug\netcoreapp3.1\CpfCpnj-poo.pdb
+C:\Users\amand\Documents\POO senai\CpfCpnj-poo\obj\Debug\netcoreapp3.1\CpfCpnj-poo.genruntimeconfig.cache
